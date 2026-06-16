@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy tu_nombre 👋
 
-<!--
-**BrayanRK/BrayanRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente trabajo en: WhatsApp bots y web apps
+- 🌱 Aprendiendo: APIs, Git y automatización
+- 💻 Stack: Node.js, Python, Bash
+- 📫 Contacto: tu correo o LinkedIn
 
-Here are some ideas to get you started:
+## Skills
+Node.js | JavaScript | Python | Git | APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- Bot de WhatsApp
+- Web para negocio
