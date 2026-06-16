@@ -1,40 +1,54 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00ffaa,100:0066ff&text=Draven%20|%20BrayanRK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WhatsApp%20Bots%20•%20Automation%20•%20AI%20Learning&descAlignY=55" />
+
 <h1 align="center">⚡ Draven | BrayanRK ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Learning+Every+Day+🚀;WhatsApp+Bot+Developer;Node.js+Enthusiast;AI+%26+Automation+Explorer;Co-Creator+of+Hinata+Bot+and+Denji+Bot" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Learning+Every+Day+🚀;WhatsApp+Bot+Developer;Node.js+Enthusiast;AI+Explorer;Automation+Lover;Co-Creator+of+Hinata+Bot+and+Denji+Bot" />
 </p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BrayanRk\&label=Profile+Views\&color=00ffaa\&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayanRk&label=Profile+Views&color=00ffaa&style=for-the-badge" />
+</p>
 
 ---
 
 # 👋 Hola, soy Draven
 
-Soy un desarrollador en constante aprendizaje al que le gusta experimentar con bots, automatización e inteligencia artificial.
+🇭🇳 Desarrollador de Honduras apasionado por la tecnología, el anime y la programación.
 
-Gran parte de lo que sé lo he aprendido creando proyectos reales, rompiendo cosas y arreglándolas después 😆.
+Me gusta aprender construyendo proyectos reales, experimentar con nuevas ideas y crear herramientas útiles para la comunidad.
 
-Actualmente sigo mejorando mis habilidades en Node.js, APIs, bases de datos y sistemas automatizados.
+Gran parte de lo que sé lo he aprendido desarrollando bots, explorando documentación y resolviendo problemas sobre la marcha.
 
 ---
 
-# 🤖 Proyectos en los que he participado
+# 🚀 Actualmente
+
+* 🌱 Aprendiendo Node.js avanzado
+* 🤖 Creando bots para WhatsApp
+* 🧠 Explorando Inteligencia Artificial
+* ⚡ Aprendiendo nuevas formas de automatizar tareas
+* 📚 Mejorando mis habilidades backend
+
+---
+
+# 🤖 Proyectos
 
 ### 💜 Hinata Bot
 
-Co-creador y colaborador en uno de los bots multifunción para WhatsApp más conocidos de la comunidad.
+Co-creador y colaborador del proyecto.
+
+Participación en el desarrollo de sistemas, comandos, mejoras y nuevas funcionalidades.
 
 ### ⚡ Denji Bot
 
-Participación en el desarrollo de funciones, mejoras y sistemas para la evolución del proyecto.
+Participación activa en el desarrollo y evolución del proyecto.
+
+Implementación de funciones, optimizaciones y herramientas para la comunidad.
 
 ---
 
-# 🧰 Tecnologías que uso
+# 🧰 Tecnologías
 
 <div align="center">
 
@@ -47,15 +61,15 @@ Participación en el desarrollo de funciones, mejoras y sistemas para la evoluci
 # 📚 Actualmente aprendiendo
 
 ```txt
-▰▰▰▰▰▰▱▱▱▱  Node.js avanzado
-▰▰▰▰▰▱▱▱▱▱  Docker
-▰▰▰▰▰▰▰▱▱▱  Inteligencia Artificial
-▰▰▰▰▰▱▱▱▱▱  Arquitectura Backend
+▰▰▰▰▰▰▱▱▱▱ Node.js
+▰▰▰▰▰▱▱▱▱▱ Docker
+▰▰▰▰▰▰▰▱▱▱ Inteligencia Artificial
+▰▰▰▰▰▱▱▱▱▱ Arquitectura Backend
 ```
 
 ---
 
-# 📊 Estadísticas
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -67,7 +81,7 @@ Participación en el desarrollo de funciones, mejoras y sistemas para la evoluci
 
 ---
 
-# 🔥 Racha de contribuciones
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -77,7 +91,7 @@ Participación en el desarrollo de funciones, mejoras y sistemas para la evoluci
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -96,7 +110,20 @@ Participación en el desarrollo de funciones, mejoras y sistemas para la evoluci
 
 ```javascript
 const draven = {
-  code: ["JavaScript", "Node.js", "Python"],
+  name: "BrayanRK",
+  location: "Honduras 🇭🇳",
+
+  code: [
+    "JavaScript",
+    "Node.js",
+    "Python"
+  ],
+
+  projects: [
+    "Hinata Bot",
+    "Denji Bot"
+  ],
+
   interests: [
     "WhatsApp Bots",
     "Artificial Intelligence",
@@ -104,8 +131,10 @@ const draven = {
     "Anime",
     "Open Source"
   ],
-  currentlyLearning: "Something new every day",
-  motto: "If it can be automated, why do it manually?"
+
+  currentlyLearning: "Something new every day 🚀",
+
+  motto: "Learn, Build, Improve"
 }
 ```
 
@@ -125,4 +154,8 @@ const draven = {
 
 ### 🚀 Aprendiendo, construyendo y mejorando cada día.
 
+⭐ Gracias por visitar mi perfil.
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffaa,100:0066ff" />
