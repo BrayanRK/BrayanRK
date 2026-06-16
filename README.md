@@ -106,6 +106,9 @@ Implementación de funciones, optimizaciones y herramientas para la comunidad.
 
 ---
 
+# 🎮 Un poco sobre mí
+
+```javascript
 const draven = {
   name: "BrayanRK",
   country: "Honduras 🇭🇳",
