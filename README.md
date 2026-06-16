@@ -106,7 +106,7 @@ const draven = {
   name: "BrayanRK",
   country: "Colombia 🇨🇴",
 
-  role: "Developer in Progress 🚀",
+  role: "WhatsApp Bot Developer 🤖",
 
   projects: [
     "Hinata Bot 💜",
@@ -126,16 +126,18 @@ const draven = {
     "Backend Development"
   ],
 
-  hobbies: [
+  interests: [
+    "WhatsApp Bots",
     "Anime",
-    "Building Bots",
-    "Learning New Tech"
+    "Open Source",
+    "AI"
   ],
 
-  funFact: "Most of my knowledge comes from building bots, breaking them and fixing them again 😆",
+  funFact: "Most of my knowledge comes from building bots and fixing my own mistakes 😆",
 
   motto: "Learn → Build → Improve"
 }
+
 ```
 
 ---
