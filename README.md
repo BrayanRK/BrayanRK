@@ -32,29 +32,22 @@ Gran parte de lo que sé lo he aprendido desarrollando bots, explorando document
 
 ---
 
-# 🤖 Proyectos
+# 🤖 Proyectos Destacados
 
 ### 💜 Hinata Bot
 
-Co-creador y colaborador del proyecto.
+Co-creador y colaborador en el desarrollo de sistemas, comandos y mejoras para la comunidad.
 
-Participación en el desarrollo de sistemas, comandos, mejoras y nuevas funcionalidades.
+🔗 https://github.com/ElvigilanteDv/Hinata-Bot
 
 ### ⚡ Denji Bot
 
-Participación activa en el desarrollo y evolución del proyecto.
+Participación activa en nuevas funciones, optimización del código y evolución del proyecto.
 
-Implementación de funciones, optimizaciones y herramientas para la comunidad.
+🔗 https://github.com/ElvigilanteDv/Denji-Bot
 
 ---
 
-# 🧰 Tecnologías
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,mongodb,mysql,git,github,linux,vscode,docker" />
-
-</div>
 
 ---
 
