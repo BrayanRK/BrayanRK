@@ -111,9 +111,9 @@ Implementación de funciones, optimizaciones y herramientas para la comunidad.
 ```javascript
 const draven = {
   name: "BrayanRK",
-  country: "Honduras 🇭🇳",
+  country: "Colombia 🇨🇴",
 
-  role: "Learning Developer",
+  role: "Developer in Progress 🚀",
 
   projects: [
     "Hinata Bot 💜",
@@ -128,12 +128,18 @@ const draven = {
   ],
 
   currentlyLearning: [
-    "AI",
+    "Artificial Intelligence",
     "Automation",
     "Backend Development"
   ],
 
-  funFact: "Most of my knowledge comes from building bots and fixing my own mistakes 😆",
+  hobbies: [
+    "Anime",
+    "Building Bots",
+    "Learning New Tech"
+  ],
+
+  funFact: "Most of my knowledge comes from building bots, breaking them and fixing them again 😆",
 
   motto: "Learn → Build → Improve"
 }
