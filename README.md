@@ -77,13 +77,18 @@ Participación en el desarrollo de funciones, mejoras y sistemas para la evoluci
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrayanRk/BrayanRk/snake-output/snake.svg" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BrayanRk/BrayanRk/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BrayanRk/BrayanRk/output/github-snake.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/BrayanRk/BrayanRk/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
