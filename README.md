@@ -106,35 +106,33 @@ Implementación de funciones, optimizaciones y herramientas para la comunidad.
 
 ---
 
-# 🎮 Un poco sobre mí
-
-```javascript
 const draven = {
   name: "BrayanRK",
-  location: "Honduras 🇭🇳",
+  country: "Honduras 🇭🇳",
 
-  code: [
+  role: "Learning Developer",
+
+  projects: [
+    "Hinata Bot 💜",
+    "Denji Bot ⚡"
+  ],
+
+  stack: [
     "JavaScript",
     "Node.js",
+    "MongoDB",
     "Python"
   ],
 
-  projects: [
-    "Hinata Bot",
-    "Denji Bot"
-  ],
-
-  interests: [
-    "WhatsApp Bots",
-    "Artificial Intelligence",
+  currentlyLearning: [
+    "AI",
     "Automation",
-    "Anime",
-    "Open Source"
+    "Backend Development"
   ],
 
-  currentlyLearning: "Something new every day 🚀",
+  funFact: "Most of my knowledge comes from building bots and fixing my own mistakes 😆",
 
-  motto: "Learn, Build, Improve"
+  motto: "Learn → Build → Improve"
 }
 ```
 
