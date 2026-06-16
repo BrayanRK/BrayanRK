@@ -145,7 +145,7 @@ const draven = {
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdv6b3euj4zi6rmeiflvq56e4q&cover_image=true&theme=novatorem" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdv6b3euj4zi6rmeiflvq56e4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdv6b3euj4zi6rmeiflvq56e4q&redirect=true)
 
 </div>
 
