@@ -1,4 +1,4 @@
-# Hola, soy tu_nombre 👋
+# Hola, soy xd
 
 - 🔭 Actualmente trabajo en: WhatsApp bots y web apps
 - 🌱 Aprendiendo: APIs, Git y automatización
