@@ -34,17 +34,7 @@ Gran parte de lo que sé lo he aprendido desarrollando bots, explorando document
 
 # 🤖 Proyectos Destacados
 
-### 💜 Hinata Bot
-
-Co-creador y colaborador en el desarrollo de sistemas, comandos y mejoras para la comunidad.
-
-🔗 https://github.com/ElvigilanteDv/Hinata-Bot
-
-### ⚡ Denji Bot
-
-Participación activa en nuevas funciones, optimización del código y evolución del proyecto.
-
-🔗 https://github.com/ElvigilanteDv/Denji-Bot
+en el sexo
 
 ---
 
